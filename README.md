@@ -8,6 +8,10 @@ everything is working
 what's not working:
 sleep
 
+Bios settings:
+disable fastboot
+disable secureboot
+change Raid to AHCI ( its hidden option in bios so you need to press ctrl+s )
 
 
 
