@@ -15,7 +15,3 @@ change Raid to AHCI ( its hidden option in bios so you need to press ctrl+s )
 
 
 
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QDVW49MU2UKA2)
-
-donations: https://www.paypal.com/paypalme/ghayyem
